@@ -138,7 +138,7 @@ nka = [
             
 os.system("clear")
 print(" \033[92;1m FOLLOW US ON GITHUB ")
-os.system("xdg-open https://github.com/YOUSUF-NIZAMI")
+os.system("xdg-open https://github.com/SHOWROB-404")
 logo =                                          ("""   
    _____ __  ______ _       ______  ____  ____ 
   / ___// / / / __ \ |     / / __ \/ __ \/ __ )
@@ -157,7 +157,7 @@ logo =                                          ("""
 \033[1;32m     \033[1;35mYoutube       :  \033[1;35m https://github.com/SHOWROB-404
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
 \033[1;32m     \033[1;35mWHATSAPP       :  \033[1;35m 01739237334
-033[1;32m     \033[1;35mGROUP         :  \033[1;35m DARK FORCE -71
+033[1;32m     GROUP         :  \033[1;35m DARK FORCE -71
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.4
 \033[1;37m================= \33[32;45mMR\33[0;m =====================
  
